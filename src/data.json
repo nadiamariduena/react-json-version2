@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "name": "Melitta",
+    "city": "Paris",
+    "planet": "earth",
+    "img": "img/brown3-768x960.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Karl",
+    "city": "Norvege",
+    "planet": "saturn",
+    "img": "img/lipstick.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Bronson",
+    "city": "DC",
+    "planet": "earth",
+    "img": "img/brown3-768x960.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Dammit",
+    "city": "NZ",
+    "planet": "saturn",
+    "img": "img/lipstick.jpg"
+  }
+]
